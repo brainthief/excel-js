@@ -11,6 +11,7 @@ module.exports = {
   'linebreak-style': 'off',
   'quote-props': 'off',
   'object-curly-spacing': 'off',
+  'require-jsdoc': 'off',
  },
  extends: ['eslint:recommended', 'google'],
 }
